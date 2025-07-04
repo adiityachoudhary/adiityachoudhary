@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Aditya Choudhary</h1>
 <h3 align="center">Web Developer | C++ Programmer | Tech Explorer</h3>
 
