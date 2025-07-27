@@ -1,12 +1,12 @@
+
 <h1 align="center">Hi 👋, I'm Aditya Choudhary</h1>
 <h3 align="center">Web Developer | C++ Programmer | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=450&lines=Code.+Create.+Repeat.;Passionate+Fullstack+Learner.;Always+Building+Something+New!;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=450&lines=Code.+Create.+Repeat.;Passionate+Fullstack+Learner.;Always+Building+Something+New!;" alt="Typing SVG aditya choudhary web developer portfolio" />
 </p>
 
 ---
-
 
 ## 🧠 About Me
 
@@ -16,6 +16,10 @@ Role: Web Developer | C++ Programmer
 Location: India 🇮🇳
 Passion: Code efficiency, UI/UX design, logical problem-solving
 ```
+📄 **My Resume**  
+👉 [Download Resume (PDF)](https://adiityachoudhary.github.io/portfolio/src/Aditya%20Choudhary%20resume.pdf)  
+---
+
 I'm a detail-oriented and driven developer based in India 🇮🇳, focused on crafting meaningful digital experiences. With a strong foundation in **C++** and a passion for **web technologies**, I aim to build scalable and elegant solutions.
 
 - 🎓 Master of Computer Applications (MCA)
@@ -84,6 +88,9 @@ I'm a detail-oriented and driven developer based in India 🇮🇳, focused on c
 </p>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adiityachoudhary/localrepo/refs/heads/main/WebDev/Portfolio%20Website/pic/banner.webp" alt="linkedin banner aditya choudhary web developer portfolio" />
+</p>
 
 > 🧠 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
